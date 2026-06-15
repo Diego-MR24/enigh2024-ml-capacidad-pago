@@ -1,0 +1,22 @@
+# Datos crudos (pesados, no se versionan en GitHub)
+data/raw/*.csv
+data/raw/**/*.csv
+!data/raw/catalogos/*.csv
+
+# Datos procesados intermedios
+data/processed/*.csv
+data/processed/*.parquet
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Cachés de Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db

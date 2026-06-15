@@ -1,0 +1,5 @@
+target,modelo,variante,accuracy,recall_0,recall_1,f1_macro,auc
+clase_ingreso_15k,Red Neuronal (MLP),Con est_socio_num,0.747,0.628,0.82,0.727,0.814
+clase_ingreso_15k,Red Neuronal (MLP),Sin est_socio_num,0.747,0.639,0.814,0.729,0.813
+clase_ingreso_mediana,Red Neuronal (MLP),Con est_socio_num,0.73,0.734,0.726,0.73,0.81
+clase_ingreso_mediana,Red Neuronal (MLP),Sin est_socio_num,0.726,0.74,0.711,0.726,0.805

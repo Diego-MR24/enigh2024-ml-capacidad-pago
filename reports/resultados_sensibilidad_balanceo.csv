@@ -1,0 +1,7 @@
+modelo,variante,accuracy,recall_0,recall_1,f1_macro,auc
+Regresión Logística,Sin balanceo,0.734,0.571,0.834,0.708,0.8
+Regresión Logística,Con balanceo,0.717,0.731,0.708,0.71,0.8
+Random Forest,Sin balanceo,0.704,0.574,0.784,0.681,0.761
+Random Forest,Con balanceo,0.703,0.595,0.769,0.683,0.762
+Red Neuronal (MLP),Sin balanceo,0.747,0.628,0.82,0.727,0.814
+Red Neuronal (MLP),Con balanceo,0.728,0.753,0.712,0.721,0.812
